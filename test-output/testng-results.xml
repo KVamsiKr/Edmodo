@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16727" started-at="2019-03-01T17:15:36Z" finished-at="2019-03-01T17:15:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16727" started-at="2019-03-01T17:15:36Z" finished-at="2019-03-01T17:15:53Z">
+      <class name="qa.Test.TeacherLoginHomePageTest">
+        <test-method status="PASS" signature="open()[pri:0, instance:qa.Test.TeacherLoginHomePageTest@77caeb3e]" name="open" is-config="true" duration-ms="11427" started-at="2019-03-01T17:15:36Z" finished-at="2019-03-01T17:15:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="teacherHome()[pri:1, instance:qa.Test.TeacherLoginHomePageTest@77caeb3e]" name="teacherHome" duration-ms="5231" started-at="2019-03-01T17:15:47Z" finished-at="2019-03-01T17:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teacherHome -->
+        <test-method status="PASS" signature="close()[pri:0, instance:qa.Test.TeacherLoginHomePageTest@77caeb3e]" name="close" is-config="true" duration-ms="28" started-at="2019-03-01T17:15:53Z" finished-at="2019-03-01T17:15:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- qa.Test.TeacherLoginHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
